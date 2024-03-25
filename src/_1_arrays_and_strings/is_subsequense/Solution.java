@@ -1,11 +1,11 @@
-package _1_arrays_and_strings;
+package _1_arrays_and_strings.is_subsequense;
 
-public class IsSubsequence {
+public class Solution {
     public static void main(String[] args) {
         String s = "axc";
         String t = "ahbgdc";
-        IsSubsequence isSubsequence = new IsSubsequence();
-        System.out.printf("\"%s\" is subsequence of \"%s\": %b", s, t, isSubsequence.isSubsequence(s, t));
+        Solution solution = new Solution();
+        System.out.printf("\"%s\" is subsequence of \"%s\": %b", s, t, solution.isSubsequence(s, t));
     }
     public boolean isSubsequence(String s, String t) {
         int i = 0;
