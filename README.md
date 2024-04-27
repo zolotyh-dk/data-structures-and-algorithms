@@ -9,4 +9,4 @@
 ✅ [Max Consecutive Ones III](https://github.com/zolotyh-dk/data-structures-and-algorithms/blob/9066dbede66f60b8e27ac634e02df7a12cbce6de/src/_1_arrays_and_strings/max_consecutive_ones_III/description.md)  
 ✅ [Running Sum of 1d Array](https://github.com/zolotyh-dk/data-structures-and-algorithms/blob/9066dbede66f60b8e27ac634e02df7a12cbce6de/src/_1_arrays_and_strings/running_sum_of_1d_array/description.md)  
 ✅ [Minimum Value to Get Positive Step by Step Sum](https://github.com/zolotyh-dk/data-structures-and-algorithms/blob/38e7a61b29e00339b3df7d62dcba7c722b790272/src/_1_arrays_and_strings/minimum_value_to_get_positive_step_by_step_sum/description.md)  
-✅ K Radius Subarray Averages
+✅ [K Radius Subarray Averages](https://github.com/zolotyh-dk/data-structures-and-algorithms/blob/dacab3809aa00f51314814a5906f45aebb64072e/src/_1_arrays_and_strings/k_radius_subarray_averages/description.md)  
